@@ -11,14 +11,14 @@
 - **Ask Me About**:  
   - Java, Spring Framework (Boot, Data, Security), ORMs  
   - Relational databases, and scalable backend solutions  
-- ⚡ **Fun Fact**: I love traveling 🗺️ and reading novels 📚  
+- **Fun Fact**: I love traveling 🗺️ and reading novels 📚  
 - **Contact Me**: [swayam.hp001@gmail.com](mailto:swayam.hp001@gmail.com)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 🚀 **Languages**  
+### **Languages**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
@@ -26,7 +26,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### 🧰 **Frameworks & Tools**  
+### **Frameworks & Tools**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white) 
@@ -34,13 +34,13 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
-### 💾 **Databases**  
+### **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![H2 Database](https://img.shields.io/badge/H2-%2300A4CC.svg?style=for-the-badge&logo=h2&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)  
 
-### 📊 **Big Data Tools**  
+### **Big Data Tools**  
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-%23FF6C37.svg?style=for-the-badge&logo=apachehadoop&logoColor=white) 
 ![Apache Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white) 
 ![Apache Hive](https://img.shields.io/badge/Hive-%23FDEE21.svg?style=for-the-badge&logo=apachehive&logoColor=black) 
