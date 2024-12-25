@@ -1,18 +1,18 @@
-# 🌟 Hi there, I'm Swayamjeet 👋  
+# Hi there, I'm Swayamjeet 👋  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Swayam04&color=blue)  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+|+Big+Data+Explorer;Always+Learning+New+Things!)](https://github.com/Swayam04)
 
 ---
 
-## 🙋‍♂️ About Me  
-- 🌱 **Currently Learning**: Backend development and exploring big data tools.  
-- 👯 **Open to Collaborate**: On exciting open-source projects.  
-- 💬 **Ask Me About**:  
+## About Me  
+- **Currently Learning**: Backend development and exploring big data tools.  
+- **Open to Collaborate**: On exciting open-source projects.  
+- **Ask Me About**:  
   - Java, Spring Framework (Boot, Data, Security), ORMs  
   - Relational databases, and scalable backend solutions  
 - ⚡ **Fun Fact**: I love traveling 🗺️ and reading novels 📚  
-- 📫 **Contact Me**: [swayam.hp001@gmail.com](mailto:swayam.hp001@gmail.com)  
+- **Contact Me**: [swayam.hp001@gmail.com](mailto:swayam.hp001@gmail.com)  
 
 ---
 
