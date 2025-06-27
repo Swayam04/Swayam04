@@ -51,9 +51,6 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swayam04&theme=radical" alt="GitHub Streak" />
-    <br><br>
-    <a href="https://github.com/Swayam04/github-readme-activity-graph">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swayam04&theme=react-dark&hide_border=true" alt="Swayam's GitHub Activity Graph" />
     </a>
     <br><br>
